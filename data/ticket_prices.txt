@@ -1,0 +1,5 @@
+Scare Out,IMAX,48.00
+Blades Of The Guardians,IMAX,45.00
+Sunshine Women's Choir,IMAX,43.00
+Hoppers,2D,35.00
+Blades Of The Guardians,4D,40.00

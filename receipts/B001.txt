@@ -1,0 +1,14 @@
+=========== RECEIPT ===========
+Booking ID: B001
+Customer ID: C001
+Name: Wong Yun Xuan
+
+Movie: Hoppers
+Showtime: 1:30 PM
+Hall Type: IMAX
+Seat: I5
+
+Payment Status: PAID
+Payment Method: Card
+Price: RM 38.20
+================================

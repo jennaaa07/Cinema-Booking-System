@@ -1,0 +1,5 @@
+S001,Scare Out,2026-03-20,1:00 PM,IMAX,1
+S002,Blades Of The Guardians,2026-03-20,1:00 PM,IMAX,2
+S003,Sunshine Women's Choir,2026-03-20,3:30 PM,IMAX,2
+S004,Hoppers,2026-03-20,3:30 PM,2D,5
+S005,Blades Of The Guardians,2026-03-20,3:30 PM,4D,10

@@ -1,0 +1,16 @@
+=========== CINEMA RECEIPT ===========
+Booking ID: B001
+Name: Racheal
+
+Movie: Blades Of The Guardians
+Showtime: 3:30 PM
+Hall Type: 4D
+Hall Number: 10
+Seat: C3,C4,C5,C6,C7
+
+Status: ACTIVE
+Payment Method: Debit Card
+Price: RM 200.00
+=====================================
+----------------------------------------
+
